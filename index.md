@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+# Sophia Zakar's First CS193 Homework
+- CS193 is taught by students who were in our shoes
+- I have friends in my class
+- CS193 isnt too stressful
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
